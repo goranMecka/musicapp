@@ -1,0 +1,32 @@
+.img {
+    max-width: 100%;
+    box-sizing: border-box;
+}
+.artist_container{
+  
+    background-color: lightgrey;
+    padding: 9px;
+    text-align: center;
+    align-items: center;
+   
+}
+.artist_container h2 {
+ margin-left: 22%;
+ margin-bottom: 20px;
+ margin-top: 20px;
+}
+.artist_item {
+    margin-bottom: 9px;
+}
+.artist_name {
+position: absolute;
+bottom: 0%;
+width: 38%;
+color: white;
+ background-color: rgb(53, 137, 247);
+padding: 5px;
+}
+.artist_name h2 {
+    font-size: 18px;
+    margin: 0%;
+}

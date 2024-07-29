@@ -1,0 +1,16 @@
+
+.nav_container {
+   
+    height: 50vh;
+    background-image: url("./images/raw/Girls-Listen-Music_0.jpg" );
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-bottom: 10px;
+}
+.header{
+margin-left: 50%;
+transform: translate(-50%);
+}
