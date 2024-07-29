@@ -2,7 +2,7 @@
 .nav_container {
    
     height: 50vh;
-    background-image: url("./images/raw/Girls-Listen-Music_0.jpg" );
+    background-image: url("../../../public/images/raw/Girls-Listen-Music_0.jpg" );
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
